@@ -5,11 +5,11 @@ Ticket booking platform to book tickets for *point-to-point* trains running betw
 
 ### Authors:
 
+- [Logeshwaran C](https://github.com/LOGESHWARAN-C)
 - [Mohammed Aswir A](https://github.com/MohammedAswir)
 - [Akash S P](https://github.com/AkashSCIENTIST)
 - [Atheeithan T](https://github.com/Atheeithan)
 - [Srivathsan B](https://github.com/Srivathsan27)
-- [Logeshwaran C](https://github.com/LOGESHWARAN-C)
 
 ### Preliminary steps:
 - Add the external *.jar* files to the IDE
